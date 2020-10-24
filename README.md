@@ -1,1 +1,1 @@
-# A Dockerfile example for python web ap (flask)
+# A Dockerfile example for python web app (flask)
